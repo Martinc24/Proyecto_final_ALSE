@@ -1,0 +1,87 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.5"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Proyecto",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_consola::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_consola-Debug-111f891f30309ca7021f.json",
+					"name" : "Proyecto_consola",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_consola_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_consola_autogen-Debug-0fb4aa08e08db6c7e0a0.json",
+					"name" : "Proyecto_consola_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_interfaz::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_interfaz-Debug-e57676b11cdb13664e3e.json",
+					"name" : "Proyecto_interfaz",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Proyecto_interfaz_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Proyecto_interfaz_autogen-Debug-9eb06f99c8cbdaf98c13.json",
+					"name" : "Proyecto_interfaz_autogen",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/andres_m/3corte/Project_F",
+		"source" : "/home/andres_m/3corte/Project_F"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

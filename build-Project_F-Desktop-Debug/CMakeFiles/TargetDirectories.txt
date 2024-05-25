@@ -1,0 +1,6 @@
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/Proyecto_consola.dir
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/Proyecto_interfaz.dir
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/edit_cache.dir
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/rebuild_cache.dir
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/Proyecto_consola_autogen.dir
+/home/andres_m/3corte/build-Project_F-Desktop-Debug/CMakeFiles/Proyecto_interfaz_autogen.dir
